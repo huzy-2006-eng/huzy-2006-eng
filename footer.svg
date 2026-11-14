@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 84" width="840" height="84" role="img" aria-label="Connection to huzaifa@github closed. Stay secure.">
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .hex { font-size: 12px; fill: #3fb950; fill-opacity: .28; animation: slide 30s linear infinite; }
+    .t { font-size: 14px; fill: #8b949e; }
+    .ok { fill: #3fb950; }
+    .cursor { fill: #3fb950; animation: blink 1.1s steps(1) infinite; }
+    @keyframes slide { to { transform: translateX(-1296px); } }
+    @keyframes blink { 50% { fill-opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .hex, .cursor { animation: none; } }
+  </style>
+  <line x1="0" y1="1" x2="840" y2="1" stroke="#30363d"/>
+  <text x="0" y="24" class="hex" xml:space="preserve" textLength="2592">5d 86 90 02 4a d6 bd a3 40 1b e9 c8 cb cc c9 35 f6 cd 1f 61 22 6a e1 53 38 ae 1a 34 00 4d 33 ba 0d 24 6a c0 4c 81 b1 ba f2 3e 3b f9 ee f5 f7 9f 2b 49 34 af 87 f5 52 0b 69 b9 4b 0d 5d 86 90 02 4a d6 bd a3 40 1b e9 c8 cb cc c9 35 f6 cd 1f 61 22 6a e1 53 38 ae 1a 34 00 4d 33 ba 0d 24 6a c0 4c 81 b1 ba f2 3e 3b f9 ee f5 f7 9f 2b 49 34 af 87 f5 52 0b 69 b9 4b 0d</text>
+  <text x="420" y="58" text-anchor="middle" class="t"><tspan class="ok">$</tspan> exit <tspan class="ok">—</tspan> Connection to huzaifa@github closed. Stay secure. <tspan class="cursor">█</tspan></text>
+</svg>
