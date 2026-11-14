@@ -1,8 +1,6 @@
 <div align="center">
 
-<h1>Hello, I'm Huzaifa! 👋</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=3FB950&center=true&vCenter=true&width=560&height=40&lines=%24+whoami;I+am+a+Cybersecurity+Enthusiast.;CompTIA+Security%2B+%E2%80%94+in+progress;Learning+Linux+%C2%B7+SQL+%C2%B7+PowerShell+%C2%B7+MERN" alt="Typing headlines" />
+<img src="./header.svg" width="100%" alt="Terminal window: Hello, I'm Huzaifa! Cybersecurity Enthusiast, working on CompTIA Security+" />
 
 <br />
 
