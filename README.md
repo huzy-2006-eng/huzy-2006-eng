@@ -31,10 +31,9 @@ ask_me_about: CIA Triad
 
 ## 🔐 The CIA Triad
 
-| 🔒 Confidentiality | ✅ Integrity | ⚡ Availability |
-| :-- | :-- | :-- |
-| Only the right people can read the data. | The data is accurate and has not been tampered with. | The data and systems are there when they are needed. |
-| *Encryption, access control, MFA* | *Hashing, signatures, audit logs* | *Backups, redundancy, DDoS protection* |
+<p align="center">
+  <img src="./triad.svg" width="100%" alt="The CIA triad: Confidentiality — only the right people can read the data. Integrity — the data is accurate and has not been tampered with. Availability — the data and systems are there when they are needed." />
+</p>
 
 ## 🛠️ Tech Stack
 
@@ -120,6 +119,8 @@ ask_me_about: CIA Triad
 </p>
 
 <div align="center">
+
+<img src="./footer.svg" width="100%" alt="Connection to huzaifa@github closed. Stay secure." />
 
 <i>⭐️ From <a href="https://github.com/huzy-2006-eng">huzy-2006-eng</a></i>
 
