@@ -44,6 +44,9 @@ ask_me_about: CIA Triad
     <td>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logoColor=white" alt="C#" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
     </td>
@@ -60,6 +63,34 @@ ask_me_about: CIA Triad
     <td>
       <img src="https://img.shields.io/badge/SQL-0F80CC?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
       <img src="https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Monitoring</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+      <img src="https://img.shields.io/badge/Splunk-65A637?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
+      <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logoColor=white" alt="Suricata" />
+      <img src="https://img.shields.io/badge/tcpdump-4B5563?style=for-the-badge&logoColor=white" alt="tcpdump" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Offensive</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+      <img src="https://img.shields.io/badge/Hydra-7C3AED?style=for-the-badge&logoColor=white" alt="Hydra" />
+      <img src="https://img.shields.io/badge/John%20the%20Ripper-D97706?style=for-the-badge&logoColor=white" alt="John the Ripper" />
+      <img src="https://img.shields.io/badge/Hashcat-0EA5E9?style=for-the-badge&logoColor=white" alt="Hashcat" />
+      <img src="https://img.shields.io/badge/StegSolve-14B8A6?style=for-the-badge&logoColor=white" alt="StegSolve" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Labs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Metasploitable-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploitable" />
+      <img src="https://img.shields.io/badge/REMnux-2E7D32?style=for-the-badge&logoColor=white" alt="REMnux" />
+      <img src="https://img.shields.io/badge/FLARE--VM-E11D48?style=for-the-badge&logoColor=white" alt="FLARE-VM" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
     </td>
   </tr>
   <tr>
