@@ -31,7 +31,7 @@ ask_me_about: CIA Triad
 
 ## 🔐 The CIA Triad
 
-| Confidentiality | Integrity | Availability |
+| 🔒 Confidentiality | ✅ Integrity | ⚡ Availability |
 | :-- | :-- | :-- |
 | Only the right people can read the data. | The data is accurate and has not been tampered with. | The data and systems are there when they are needed. |
 | *Encryption, access control, MFA* | *Hashing, signatures, audit logs* | *Backups, redundancy, DDoS protection* |
@@ -42,31 +42,31 @@ ask_me_about: CIA Triad
   <tr>
     <td><b>Languages</b></td>
     <td>
-      <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=3fb950" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3fb950" alt="Python" />
-      <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=3fb950" alt="C" />
-      <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=3fb950" alt="Bash" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
     </td>
   </tr>
   <tr>
     <td><b>Web</b></td>
     <td>
-      <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=3fb950" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css&logoColor=3fb950" alt="CSS3" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
     </td>
   </tr>
   <tr>
     <td><b>Data</b></td>
     <td>
-      <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=sqlite&logoColor=3fb950" alt="SQL" />
-      <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=3fb950" alt="MySQL" />
+      <img src="https://img.shields.io/badge/SQL-0F80CC?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     </td>
   </tr>
   <tr>
     <td><b>Tools</b></td>
     <td>
-      <img src="https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logoColor=3fb950" alt="VS Code" />
-      <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=3fb950" alt="GitHub" />
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logoColor=white" alt="VS Code" />
+      <img src="https://img.shields.io/badge/GitHub-6E5494?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </td>
   </tr>
 </table>
