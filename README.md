@@ -10,7 +10,7 @@
 
 </div>
 
-## 🚀 About Me
+## About Me....
 
 ```yaml
 name:      Huzaifa
