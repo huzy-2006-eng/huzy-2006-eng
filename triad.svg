@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 360" width="840" height="360" role="img" aria-label="The CIA triad. Confidentiality: only the right people can read the data (encryption, access control, MFA). Integrity: the data is accurate and has not been tampered with (hashing, signatures, audit logs). Availability: the data and systems are there when they are needed (backups, redundancy, DDoS protection).">
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .h { font-size: 15px; font-weight: 700; letter-spacing: 2px; }
+    .d { font-size: 12.5px; fill: #c9d1d9; }
+    .e { font-size: 12px; fill: #8b949e; }
+    .tag { font-size: 12px; fill: #8b949e; }
+    .flow { stroke-dasharray: 6 10; animation: flow 1.2s linear infinite; }
+    .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2.4s ease-out infinite; }
+    .shield { animation: glow 3s ease-in-out infinite; }
+    @keyframes flow { to { stroke-dashoffset: -16; } }
+    @keyframes pulse { from { transform: scale(1); opacity: .9; } to { transform: scale(2.6); opacity: 0; } }
+    @keyframes glow { 50% { fill-opacity: .28; } }
+    @media (prefers-reduced-motion: reduce) { .flow, .pulse, .shield { animation: none; } .pkt { display: none; } }
+  </style>
+  <rect x="1" y="1" width="838" height="358" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <text x="24" y="30" class="tag">// cia_triad — the three goals of security</text>
+
+  <path id="tri" d="M420 90 L640 262 L200 262 Z" fill="none" stroke="#30363d" stroke-width="2"/>
+  <path class="flow" d="M420 90 L640 262 L200 262 Z" fill="none" stroke="#3fb950" stroke-width="2" stroke-opacity=".7"/>
+  <g stroke="#30363d" stroke-dasharray="3 5">
+    <line x1="420" y1="90" x2="420" y2="170"/><line x1="200" y1="262" x2="392" y2="222"/><line x1="640" y1="262" x2="448" y2="222"/>
+  </g>
+  <g class="pkt" fill="#e6edf3">
+    <circle r="3.500"><animateMotion dur="6s" repeatCount="indefinite"><mpath href="#tri"/></animateMotion></circle>
+    <circle r="3.500"><animateMotion dur="6s" begin="-2s" repeatCount="indefinite"><mpath href="#tri"/></animateMotion></circle>
+    <circle r="3.500"><animateMotion dur="6s" begin="-4s" repeatCount="indefinite"><mpath href="#tri"/></animateMotion></circle>
+  </g>
+
+  <path class="shield" d="M420 166 l36 12 v28 c0 25 -17 40 -36 48 c-19 -8 -36 -23 -36 -48 v-28 z" fill="#3fb950" fill-opacity=".12" stroke="#3fb950" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="408" y="206" width="24" height="19" rx="3" fill="#3fb950"/>
+  <path d="M412 206 v-7 a8 8 0 0 1 16 0 v7" fill="none" stroke="#3fb950" stroke-width="3"/>
+  <circle cx="420" cy="215" r="2.500" fill="#0d1117"/>
+
+  <circle class="pulse" cx="420" cy="90" r="12" fill="none" stroke="#58a6ff" stroke-width="2" style="animation-delay:0s"/>
+  <circle cx="420" cy="90" r="12" fill="#0d1117" stroke="#58a6ff" stroke-width="2"/>
+  <circle cx="420" cy="90" r="4" fill="#58a6ff"/>
+  <circle class="pulse" cx="200" cy="262" r="12" fill="none" stroke="#3fb950" stroke-width="2" style="animation-delay:0.8s"/>
+  <circle cx="200" cy="262" r="12" fill="#0d1117" stroke="#3fb950" stroke-width="2"/>
+  <circle cx="200" cy="262" r="4" fill="#3fb950"/>
+  <circle class="pulse" cx="640" cy="262" r="12" fill="none" stroke="#d29922" stroke-width="2" style="animation-delay:1.6s"/>
+  <circle cx="640" cy="262" r="12" fill="#0d1117" stroke="#d29922" stroke-width="2"/>
+  <circle cx="640" cy="262" r="4" fill="#d29922"/>
+
+  <text x="480" y="78" class="h" fill="#58a6ff">CONFIDENTIALITY</text>
+  <text x="480" y="98" class="d">Only the right people can read the data.</text>
+  <text x="480" y="116" class="e">Encryption · access control · MFA</text>
+
+  <text x="200" y="300" text-anchor="middle" class="h" fill="#3fb950">INTEGRITY</text>
+  <text x="200" y="320" text-anchor="middle" class="d">Accurate and not tampered with.</text>
+  <text x="200" y="338" text-anchor="middle" class="e">Hashing · signatures · audit logs</text>
+
+  <text x="640" y="300" text-anchor="middle" class="h" fill="#d29922">AVAILABILITY</text>
+  <text x="640" y="320" text-anchor="middle" class="d">There when it is needed.</text>
+  <text x="640" y="338" text-anchor="middle" class="e">Backups · redundancy · DDoS protection</text>
+</svg>
