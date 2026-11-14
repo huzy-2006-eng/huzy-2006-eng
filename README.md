@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:0f3d24,100:2ea043&text=Hello%2C%20I'm%20Huzaifa!&fontColor=e6edf3&fontSize=54&fontAlignY=38&desc=Cybersecurity%20Enthusiast&descAlignY=60&descSize=18" width="100%" alt="Hello, I'm Huzaifa! — Cybersecurity Enthusiast" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=3FB950&center=true&vCenter=true&width=560&height=40&lines=%24+whoami;I+am+a+Cybersecurity+Enthusiast.;Google+Cybersecurity+Certificate+%E2%80%94+in+progress;Learning+Linux+%C2%B7+SQL+%C2%B7+PowerShell+%C2%B7+MERN" alt="Typing headlines" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=3FB950&center=true&vCenter=true&width=560&height=40&lines=%24+whoami;I+am+a+Cybersecurity+Enthusiast.;CompTIA+Security%2B+%E2%80%94+in+progress;Learning+Linux+%C2%B7+SQL+%C2%B7+PowerShell+%C2%B7+MERN" alt="Typing headlines" />
 
 <br />
 
@@ -20,8 +20,10 @@
 name:      Huzaifa
 pronouns:  He/Him
 role:      Cybersecurity Enthusiast
-working_on:
+certified:
   - Google Cybersecurity Certificate
+working_on:
+  - CompTIA Security+
 learning:
   - Linux
   - SQL
@@ -81,7 +83,7 @@ ask_me_about: CIA Triad
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=huzy-2006-eng&bg_color=00000000&color=3fb950&line=2ea043&point=e6edf3&area=true&area_color=2ea043&hide_border=true" alt="Contribution graph" />
+  <img src="https://streak-stats.demolab.com?user=huzy-2006-eng&hide_border=true&background=00000000&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&currStreakNum=e6edf3&sideNums=e6edf3&sideLabels=8b949e&dates=8b949e&stroke=30363d" alt="GitHub streak" />
 </p>
 
 ## 💭 Dev Quote
@@ -97,4 +99,3 @@ ask_me_about: CIA Triad
 <i>⭐️ From <a href="https://github.com/huzy-2006-eng">huzy-2006-eng</a></i>
 
 </div>
-
