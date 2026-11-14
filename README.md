@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header.svg" width="100%" alt="Terminal window: Hello, I'm Huzaifa! Cybersecurity Enthusiast, working on CompTIA Security+" />
+<img src="./header.svg?v=2" width="100%" alt="Terminal window: Hello, I'm Huzaifa! Cybersecurity Enthusiast, working on CompTIA Security+" />
 
 <br />
 
@@ -12,22 +12,9 @@
 
 ## About Me....
 
-```yaml
-name:      Huzaifa
-pronouns:  He/Him
-role:      Cybersecurity Enthusiast
-certified:
-  - Google Cybersecurity Certificate
-working_on:
-  - CompTIA Security+
-learning:
-  - Linux
-  - SQL
-  - PowerShell
-  - CLI & GUI
-  - MERN Stack
-ask_me_about: CIA Triad
-```
+<p align="center">
+  <img src="./about.svg" width="100%" alt="Operator profile — Name: Huzaifa. Pronouns: He/Him. Role: Cybersecurity Enthusiast. Certified: Google Cybersecurity Certificate. Working on: CompTIA Security+. Learning: Linux, SQL, PowerShell, CLI and GUI, MERN Stack. Ask me about: CIA Triad." />
+</p>
 
 ## 🔐 The CIA Triad
 
