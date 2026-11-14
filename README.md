@@ -1,6 +1,3 @@
-
-
-````
 <div align="center">
 
 <a href="https://github.com/huzy-2006-eng">
@@ -100,5 +97,4 @@ ask_me_about: CIA Triad
 <i>⭐️ From <a href="https://github.com/huzy-2006-eng">huzy-2006-eng</a></i>
 
 </div>
-````
 
